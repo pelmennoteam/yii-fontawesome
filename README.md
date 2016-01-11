@@ -8,12 +8,12 @@ Installation
 
 Using Composer:
 
-Simply add a dependency on "ikirux/yii-fontawesome" to your project's composer.json file if you use Composer to manage the dependencies of your project. Here is a minimal example of a composer.json
+Simply add a dependency on "pelmennoteam/yii-fontawesome" to your project's composer.json file if you use Composer to manage the dependencies of your project. Here is a minimal example of a composer.json
 
 ```
 {
     "require": {
-        "ikirux/yii-fontawesome": "dev-master"
+        "pelmennoteam/yii-fontawesome": "dev-master"
     }
 }
 ```
@@ -24,7 +24,7 @@ Using Git:
 Just clone the project inside your extension directory
 
 ```
-git clone git@github.com:ikirux/yii-fontawesome.git
+git clone git@github.com:pelmennoteam/yii-fontawesome.git
 
 ```
 Configuration

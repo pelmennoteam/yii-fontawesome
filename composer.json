@@ -1,15 +1,19 @@
 {
-    "name": "ikirux/yii-fontawesome",
+    "name": "pelmennoteam/yii-fontawesome",
     "description": "A fontawesome wrapper for Yii 1.X",
     "keywords": [
         "yii",
         "fontawesome"
     ],
-    "homepage": "https://github.com/ikirux/yii-fontawesome",
+    "homepage": "https://github.com/pelmennoteam/yii-fontawesome",
     "authors": [
         {
             "name": "Carlos Pinto",
             "email": "ikirux@gmail.com"
-        }
+        },
+		{
+			"name": "Danil Syromolotov",
+			"email": "pelmennoteam@gmail.com"
+		}
     ]
 }
